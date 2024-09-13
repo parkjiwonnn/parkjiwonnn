@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 <!--타이틀 부분-->
-<h1 align="center">✨ Thank You for Visiting My Profile! ✨</h1>
+<h1>✨ Thank You for Visiting My Profile! ✨</h1>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
+<h3>✨ Tech Stack ✨</h3>
+<div>
   <!-- 웹 개발 -->
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
+<div>
   <!-- ICT -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
@@ -31,16 +31,16 @@
 
 <br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
+<h3>📚 Studying 📚</h3>
+<div>
   <img src="https://img.shields.io/badge/react%20query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
 </div>
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<h3>🛠 Tools 🛠</h3>
+<div>
   <!-- IDE -->
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
+<div>
   <!-- 협업 -->
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
