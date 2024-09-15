@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&height=80)
 
-<h2 style="font-family: Alkatra; font-weight: 500; font-size: 45px; color: #6994CDEE;">
-  Welcome to Jiwon's GitHub!👋
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiwon's+GitHub!👋)](https://git.io/typing-svg)
 
 <h3>✨ Tech Stack ✨</h3>
 <div>
@@ -53,7 +51,7 @@
 
 <div>
   <p><strong>Development Tools</strong></p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
